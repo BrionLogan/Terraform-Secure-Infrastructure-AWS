@@ -10,7 +10,8 @@ By deploying resources through code instead of manually configuring them in the 
 
 ## 🏗️ Architecture
 
-📸 **Insert Architecture Diagram Here**
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a40b55cf-f337-4577-aeed-53a7b52a2ce9" />
+
 
 ---
 
